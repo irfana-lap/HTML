@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    background-color: lightgray;
+}
+
+.right {
+    width: 50%;
+    background-color: lightblue;
+}
