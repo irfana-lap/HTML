@@ -1,0 +1,13 @@
+.container {
+    margin: 20px;
+}
+
+.card {
+    background-color: lightgray;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    background-color: lightblue;
+}
