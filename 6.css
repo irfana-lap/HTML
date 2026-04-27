@@ -1,0 +1,12 @@
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+#special {
+    color: red;
+    font-weight: bold;
+}
